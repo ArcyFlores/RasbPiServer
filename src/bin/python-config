@@ -1,4 +1,4 @@
-#!/Users/arinigue/neu/cs5700/src/bin/python
+#!/var/www/html/cs5700/src/bin/python
 
 import sys
 import getopt
