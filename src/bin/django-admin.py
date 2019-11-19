@@ -1,4 +1,4 @@
-#!/Users/arinigue/neu/cs5700/src/bin/python3.7
+#!/var/www/html/cs5700/src/bin/python3.6
 from django.core import management
 
 if __name__ == "__main__":

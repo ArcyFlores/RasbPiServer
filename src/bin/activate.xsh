@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/arinigue/neu/cs5700/src"
+$VIRTUAL_ENV = r"/var/www/html/cs5700/src"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
